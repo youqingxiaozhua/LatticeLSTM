@@ -1,3 +1,6 @@
+运行环境已升级为`Python 3.7 + Pytorch 1.5.0`
+
+----------------------------
 Chinese NER Using Lattice LSTM
 ====
 
